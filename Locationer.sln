@@ -15,13 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "src\Infra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebUI", "src\WebUI\WebUI.csproj", "{A9632A3D-1383-4893-8786-2EF59D303A35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.UnitTests", "tests\Application.UnitTests\Application.UnitTests.csproj", "{FC2DEA05-47A5-432E-A8F3-4FE526FE223C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application.UnitTests", "tests\Application.UnitTests\Application.UnitTests.csproj", "{FC2DEA05-47A5-432E-A8F3-4FE526FE223C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.IntergrationTests", "tests\Application.IntergrationTests\Application.IntergrationTests.csproj", "{3406B05A-24C2-4354-B526-8A743EAB2A84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application.IntergrationTests", "tests\Application.IntergrationTests\Application.IntergrationTests.csproj", "{3406B05A-24C2-4354-B526-8A743EAB2A84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.UnitTests", "tests\Infrastructure.UnitTests\Infrastructure.UnitTests.csproj", "{6C2FE553-D2AA-4531-9A20-1981B5354F47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure.UnitTests", "tests\Infrastructure.UnitTests\Infrastructure.UnitTests.csproj", "{6C2FE553-D2AA-4531-9A20-1981B5354F47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.IntegrationTests", "tests\Infrastructure.IntegrationTests\Infrastructure.IntegrationTests.csproj", "{D416C8E5-4F8E-4880-B530-F88072032041}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure.IntegrationTests", "tests\Infrastructure.IntegrationTests\Infrastructure.IntegrationTests.csproj", "{D416C8E5-4F8E-4880-B530-F88072032041}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

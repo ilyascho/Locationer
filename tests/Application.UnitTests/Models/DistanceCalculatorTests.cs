@@ -18,7 +18,7 @@ namespace Application.UnitTests.Models
         public void CalculateDistance_IsEqualDistance_True()
         {       
             LocationDto locA = new LocationDto("LocationA", 52.216542, 5.4778534);
-            LocationDto locB = new LocationDto("LocationA", 50.91414, 5.95549);
+            LocationDto locB = new LocationDto("LocationB", 50.91414, 5.95549);
             double expectedDistance = 148527.96353121538;
 
             IDistanceCalculator calc = new DistanceCalculator();
